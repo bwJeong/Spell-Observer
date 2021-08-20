@@ -2,7 +2,7 @@
 
 Spell Observer는 [Riot Games API](https://developer.riotgames.com/)를 활용해 리그오브레전드의 적팀 스펠 체크를 도와 아군과 이를 공유할 수 있는 게임 유틸 어플리케이션입니다.
 
-- App 버전: 1.0.0 (App Store)
+- App 버전: 1.0.0
 - 지원 가능한 iOS 버전: iOS 13.0 이상
 
 ## 지원가능모드
