@@ -2,9 +2,8 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 
-![PreviewImage (iPhoneMax)](https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png)
-![PreviewImage (iPhoneMax)-1](https://user-images.githubusercontent.com/54430715/130458709-be4fae9a-297c-4e8d-966d-039211214cb3.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458709-be4fae9a-297c-4e8d-966d-039211214cb3.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="15%" height="15%"></p>
 
 Spell Observer는 [Riot Games API](https://developer.riotgames.com/)를 활용해 리그오브레전드의 적팀 스펠 체크를 도와 아군과 이를 공유할 수 있는 게임 유틸 어플리케이션입니다.
 
