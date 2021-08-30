@@ -5,7 +5,7 @@
 
 Spell Observer는 상대편의 소환사 주문을 체크하고 이를 아군과 공유할 수 있도록하는 [League of Legends](https://www.leagueoflegends.com/) 유틸리티 어플리케이션입니다.
 
-[Riot Games API](https://developer.riotgames.com/)를 활용해
+- [Riot Games API](https://developer.riotgames.com/) 활용
 
 Spell Observer is a game utility application that can use [Riot Games API](https://developer.riotgames.com/) to help LOL's enemy team spell check and share it with my teammate.
 
