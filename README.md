@@ -1,8 +1,13 @@
-# Spell Observer - 리그오브레전드 스펠 체크 도우미(LOL Spell Check Helper)
+# Spell Observer - 리그오브레전드 스펠 체크 도우미
+# Spell Observer - LOL Spell Check Helper
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 
-Spell Observer는 [Riot Games API](https://developer.riotgames.com/)를 활용해 리그오브레전드의 적팀 스펠 체크를 도와 아군과 이를 공유할 수 있는 게임 유틸 어플리케이션입니다.
+Spell Observer는 상대편의 소환사 주문을 체크하고 이를 아군과 공유할 수 있도록하는 [리그오브레전드](https://www.leagueoflegends.com/) 유틸리티 어플리케이션입니다.
+
+[Riot Games API](https://developer.riotgames.com/)를 활용해
+
+Spell Observer is a game utility application that can use [Riot Games API](https://developer.riotgames.com/) to help LOL's enemy team spell check and share it with my teammate.
 
 - App 버전: 1.0.0
 - 지원 가능한 iOS 버전: iOS 13.0 이상
