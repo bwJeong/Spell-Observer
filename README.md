@@ -1,5 +1,5 @@
 # Spell Observer - 리그오브레전드 스펠 체크 도우미
-# Spell Observer - LOL Spell Check Helper
+Spell Observer - LOL Spell Check Helper
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 
