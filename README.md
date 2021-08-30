@@ -8,19 +8,20 @@ Spell Observer는 상대편의 소환사 주문을 체크하고 이를 아군과
 - App 버전: 1.0.0 (App Store)
 - 지원 가능한 iOS 버전: iOS 13.0 이상
 
-## Preview
+## 프리뷰
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458709-be4fae9a-297c-4e8d-966d-039211214cb3.png" width="30%" height="30%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="30%" height="30%"></p>
 
-## Available Mode & Spell
+## 지원가능 모드 & 소환사 주문
 
-- Mode
+- 모드
   - 소환사의 협곡(일반, 랭크)
 
-- Spell
-  - 유체화, 회복, 순간이동, 
+- 소환사 주문
+  - 유체화, 회복, 순간이동(부분지원), 정화, 방어막, 점화, 탈진, 점멸
 
+지원가능한 모드 및 소환사 주문의 종류는 추후 업데이트에 따라 추가될 수 있습니다.
 
 ## 특징
 
