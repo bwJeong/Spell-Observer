@@ -1,8 +1,7 @@
-# Spell Observer - 리그오브레전드 스펠 체크 도우미
+# 스펠 옵저버 - 롤 스펠 타이머
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
-
-Spell Observer는 상대편의 소환사 주문 사용유무를 체크하고 이를 아군과 공유할 수 있도록하는 [League of Legends](https://www.leagueoflegends.com/) 유틸리티 어플리케이션입니다.
+스펠 옵저버는 상대편의 소환사 주문 사용유무를 체크하고 이를 아군과 공유할 수 있도록하는 [League of Legends](https://www.leagueoflegends.com/) 유틸리티 어플리케이션입니다.
 
 - [Riot Games API](https://developer.riotgames.com/) 활용
 - App 버전: 1.0.0 (App Store)
@@ -14,7 +13,7 @@ Spell Observer는 상대편의 소환사 주문 사용유무를 체크하고 이
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="30%" height="30%"></p>
 
 ## 특징
-> 인게임 채팅으로 확인해야하는 번거로운 상대편의 소환사 주문 사용유무 체크, **Spell Observer**를 통해 더욱 정확하고 편리하게 확인하세요.
+> 인게임 채팅으로 확인해야하는 번거로운 상대편의 소환사 주문 사용유무 체크, **스펠 옵저버**를 통해 더욱 정확하고 편리하게 확인하세요.
 
 - 터치 한 번으로 간편하게 상대편의 소환사 주문을 체크하세요!
 - 체크한 소환사 주문은 해당 앱을 실행 중인 아군에게 자동으로 공유됩니다!
