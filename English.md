@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 
-Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utility application that allows you to check whether opponents used a summoner spell and can share it with your teammate
+Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utility application that allows you to check whether opponents used a summoner spell and can share it with your teammates
 
 - Using [Riot Games API](https://developer.riotgames.com/)
 - App Version: 1.0.0 (App Store)
@@ -34,7 +34,7 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
   - Support: Summoner's Rift (Normal, Rank)
 
 - Summoner Spell
-  - Support: Ghost, Heal, **Teleport()**, Cleanse, Barrier, Ignite, Exhaust, Flash
+  - Support: Ghost, Heal, **Teleport(Partial support)**, Cleanse, Barrier, Ignite, Exhaust, Flash
     - **Teleport: Cool time reduction according to champion level is not yet applied (420 sec fixed)**
   - Unsupported: Smite, Clarity, Mark
 
