@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 스펠 옵저버는 상대편의 소환사 주문 사용유무를 체크하고 이를 아군과 공유할 수 있도록하는 [League of Legends](https://www.leagueoflegends.com/) 유틸리티 어플리케이션입니다.
+[League of Legends](https://www.leagueoflegends.com/)
 
 - [Riot Games API](https://developer.riotgames.com/) 활용
 - App 버전: 1.0.0 (App Store)
