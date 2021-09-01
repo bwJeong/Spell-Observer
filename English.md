@@ -16,6 +16,14 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="30%" height="30%"></p>
 
 ## Feature
+> Check it out more accurately and conveniently through the Spell Observer.
+
+- Easily check opponent's summoner spell with one touch!
+- Checked summoner spells are automatically shared with teammates running the app!
+- Apply rune and item for more accurate summoner spell check!
+  - Rune: Cosmic insight (Auto)
+  - Item: Ionian Boots of Lucidity (Manual)
+- Come up with a better strategy during the game using shared opponent summoner spells!
 
 ## Support
 
@@ -30,4 +38,4 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
     - **Teleport: Cool time reduction according to champion level is not yet applied (420 sec fixed)**
   - Unsupported: Smite, Clarity, Mark
 
-Supportable regions, modes and types of Summoner spell may be added upon future updates.
+Supportable regions, modes and types of summoner spell may be added upon future updates.
