@@ -23,7 +23,7 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 - Apply rune and item for more accurate summoner spell check!
   - Rune: Cosmic insight (Auto)
   - Item: Ionian Boots of Lucidity (Manual)
-- Come up with a better strategy during the game using shared opponent summoner spells!
+- Come up with a better strategy during the game using usage status of opponent summoner spells that shared with teammates!
 
 ## Support
 
