@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
 
-Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utility application that allows you to check whether opponents used a summoner spell and can share it with your teammates
+Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utility application that allows you to check whether opponents used a summoner spell and can share it with your teammates.
 
 - Using [Riot Games API](https://developer.riotgames.com/)
 - App Version: 1.0.0 (App Store)
