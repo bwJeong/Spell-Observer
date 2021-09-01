@@ -16,7 +16,7 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="30%" height="30%"></p>
 
 ## Feature
-> Check it out more accurately and conveniently through the Spell Observer.
+> Still checking opponent's summoner spells using in-game chat? Check it out more accurately and conveniently through the Spell Observer!
 
 - Easily check opponent's summoner spell with one touch!
 - Checked summoner spells are automatically shared with teammates running the app!
