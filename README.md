@@ -1,6 +1,6 @@
 # 스펠 옵저버 - 롤 스펠 타이머
 
-<center><[한국어](https://github.com/bwJeong/Spell-Observer/blob/main/README.md), [English](https://github.com/bwJeong/Spell-Observer/blob/main/English.md)></center> 
+<center>[한국어](https://github.com/bwJeong/Spell-Observer/blob/main/README.md), [English](https://github.com/bwJeong/Spell-Observer/blob/main/English.md)</center> 
 
 - Contact
   - Seunggi LEE (<avocado34.131@gmail.com>)
