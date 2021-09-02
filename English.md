@@ -10,6 +10,10 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 - App Version: 1.0.0 (App Store)
 - Compatibility: iOS 13.0 or later
 
+📧 **Contact** 
+- Seunggi LEE (<avocado34.131@gmail.com>)
+- Byungwook JEONG (<bwjeong93@gmail.com>)
+
 ## Preview
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458709-be4fae9a-297c-4e8d-966d-039211214cb3.png" width="30%" height="30%"></p>
