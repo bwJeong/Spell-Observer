@@ -2,7 +2,7 @@
 
 <[한국어](https://github.com/bwJeong/Spell-Observer/blob/main/README.md), [English](https://github.com/bwJeong/Spell-Observer/blob/main/English.md)>
 
-- Contact
+- Contact 📧
   - Seunggi LEE (<avocado34.131@gmail.com>)
   - Byungwook JEONG (<bwjeong93@gmail.com>)
 
