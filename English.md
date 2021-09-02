@@ -2,7 +2,7 @@
 
 <[한국어](https://github.com/bwJeong/Spell-Observer/blob/main/README.md), [English](https://github.com/bwJeong/Spell-Observer/blob/main/English.md)>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458686-10c797c3-d20f-4f60-8866-29b51491cc90.png" width="20%" height="20%"></p>
 
 Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utility application that allows you to check whether opponents used a summoner spell and share it with your teammates.
 
