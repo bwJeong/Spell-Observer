@@ -10,8 +10,8 @@
 - 호환성: iOS 13.0 이상
 
 📧 **Contact** 
-- Seunggi LEE (<avocado34.131@gmail.com>)
 - Byungwook JEONG (<bwjeong93@gmail.com>)
+- Seunggi LEE (<avocado34.131@gmail.com>)
 
 ## 프리뷰
 
