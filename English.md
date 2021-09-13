@@ -10,8 +10,8 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 - Compatibility: iOS 13.0 or later
 
 📧 **Contact** 
-- Seunggi LEE (<avocado34.131@gmail.com>)
 - Byungwook JEONG (<bwjeong93@gmail.com>)
+- Seunggi LEE (<avocado34.131@gmail.com>)
 
 ## Preview
 
