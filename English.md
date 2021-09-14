@@ -15,8 +15,8 @@ Spell Observer is a [League of Legends](https://www.leagueoflegends.com/) utilit
 
 ## Preview
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458709-be4fae9a-297c-4e8d-966d-039211214cb3.png" width="30%" height="30%"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/130458697-ce368616-195d-49cb-96a5-b2a090393a1f.png" width="30%" height="30%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/133178431-3f13a2cb-ffa0-4180-89d1-72db81055cee" width="30%" height="30%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/133178419-7e729494-c731-4385-bbad-016a9dc8b565.png" width="30%" height="30%"></p>
 
 ## Feature
 > Still checking opponent's summoner spells using in-game chat? Check it out more accurately and conveniently through the Spell Observer!
